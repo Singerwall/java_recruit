@@ -33,3 +33,5 @@ commit to master 是 将修改保存到文中中，但是还没有同步到服�
 fecth origin 是获取源文件，也就是同步服务器上的文件
 roll back this commit 撤销本次提交
 pull 是同步到服务器中
+
+branch 新建分支，则是复制原来的分支，在新建的分支上修改不会对原分支产生修改
