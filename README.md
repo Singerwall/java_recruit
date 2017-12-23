@@ -28,3 +28,8 @@ clone 到本地分支，做一些 bug fix发起 pull request 给原仓库，
 让他看到你修改的 bug原仓库 review 这个 bug，如果是正确的话，就会 merge 到他自己的项目中至此，
 整个 pull request 的过程就结束了。理解了 pull request 的含义和流程，具体操作也就简单了。
 
+在github桌面版， 
+commit to master 是 将修改保存到文中中，但是还没有同步到服务器上
+fecth origin 是获取源文件，也就是同步服务器上的文件
+roll back this commit 撤销本次提交
+pull 是同步到服务器中
